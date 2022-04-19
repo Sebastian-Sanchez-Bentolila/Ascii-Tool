@@ -11,9 +11,9 @@ This project contains only one branch: main. This software is made in C++.
 ### Built with
 
 - C++
-	- <iostream>
-	- <stdlib.h>
-	- <string.h>
+	- iostream
+	- stdlib.h
+	- string.h
 
 ### About
 
