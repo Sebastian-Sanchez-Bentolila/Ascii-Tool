@@ -1,7 +1,7 @@
 # Ascii Tool
 Tool with simple functionalities with ASCII code.
 
-character to decimal and decimal to character.
+Chracter to decimal and decimal to character.
 
 
 ### Contents
